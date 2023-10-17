@@ -1,4 +1,4 @@
-alert("ahoj!!!")
+alert("ahoj!!!!")
 
 function fibCislo(n) {
     if (n < 2) return 1
